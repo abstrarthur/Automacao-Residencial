@@ -23,3 +23,5 @@ Esses foram os materiais que utilizamos no projeto:
 - Plafon Turquia com Soquete
 - **12** Cabos Jumper Macho-Fêmea
 - **2** Cabos Jumper Macho-Macho
+
+Para fazer o acionamento da lâmpada pela internet, nós criamos um aplicativo no Node-RED com a seguinte interface:
