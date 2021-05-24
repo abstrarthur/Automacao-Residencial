@@ -2,16 +2,24 @@
 
 Olá! Este é o projeto que eu e a [Gabrielle Baptista](https://github.com/theworldofbibi) fizemos para a disciplina de Objetos Inteligentes Conectados no curso de Sistemas de Informação da Universidade Presbiteriana Mackenzie.
 
-O nosso projeto é uma adaptação de uma automação residencial feita pelo **Flávio Guimarães**, do canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias/featured) e do **Fernando Koyanagi**, do canal [Fernando K](https://www.youtube.com/c/FernandoKoyanagi/featured), que consiste no acionamento de uma lâmpada através da internet, utilizando o [protocolo MQTT](https://developer.ibm.com/br/technologies/iot/articles/iot-mqtt-why-good-for-iot/), e com um sensor de distância ultrassônico.
+O nosso projeto é uma adaptação de uma automação residencial feita pelo **Flávio Guimarães**, do canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias/featured) e do **Fernando Koyanagi**, do canal [Fernando K](https://www.youtube.com/c/FernandoKoyanagi/featured), que consiste no acionamento de uma lâmpada através da internet, utilizando a versão **3.1.1** do [protocolo MQTT](https://developer.ibm.com/br/technologies/iot/articles/iot-mqtt-why-good-for-iot/), e com um sensor de distância ultrassônico.
 
-As tecnologias que utilizamos foram:
+**Documentação das tecnologias utilizadas:**
 - [IBM Watson](https://cloud.ibm.com/developer/watson/documentation)
 - [Node-RED](https://nodered.org/docs/)
 - [Plataforma NodeMCU](https://nodemcu.readthedocs.io/en/release)
 
+**Documentação da versão do protocolo MQTT:**
+- [MQTT versão 3.1.1](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.pdf)
+
+**Documentação das bibliotecas utilizadas Node-RED:**
+- [node-red-contrib-ibmconnections 1.7.0](https://flows.nodered.org/node/node-red-contrib-ibmconnections)
+- [node-red-contrib-scx-ibmiotapp 0.0.49](https://flows.nodered.org/node/node-red-contrib-scx-ibmiotapp)
+- [node-red-contrib-ibm-db2](node-red-contrib-ibm-db2)
+
 A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e portanto todos os componentes do circuito atuam em função dele.
 
-Estes foram os materiais que utilizamos no projeto:
+Lista de materiais:
 - Módulo WiFi ESP8266 NodeMCU ESP-12
 - Sensor de Distância Ultrassônico HC-SR04
 - Módulo Relé 5V com 1 canal
