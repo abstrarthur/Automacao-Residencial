@@ -12,6 +12,7 @@
 #include <WiFiManager.h>
 
 // Dados do dispositivo criado no IBM Watson
+// Substitua os "xxx" pelas credenciais do seu dispositivo
 const String ORG_ID = "xxx";
 const String DEVICE_TYPE = "xxx";
 const String DEVICE_ID = "xxx";
