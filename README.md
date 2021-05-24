@@ -9,4 +9,4 @@ As tecnologias que utilizamos foram:
 - [Node-RED](https://nodered.org/docs/)
 - [Plataforma NodeMCU](https://nodemcu.readthedocs.io/en/release)
 
-A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e os demais os componentes do circuito atuam em função dele.
+A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e os demais componentes do circuito atuam em função dele.
