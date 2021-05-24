@@ -25,4 +25,4 @@ Esses foram os materiais que utilizamos no projeto:
 - **2** Cabos Jumper Macho-Macho
 
 Para fazer o acionamento da lâmpada pela internet, nós criamos um aplicativo no Node-RED com a seguinte interface:
-![Dashboard do aplicativo no Node-RED](https://raw.githubusercontent.com/abstrarthur/automacao_residencial/main/Dashboard%20Node-RED.png)
+![Dashboard do aplicativo no Node-RED](https://raw.githubusercontent.com/abstrarthur/automacao_residencial/main/Dashboard%20Node-RED.png "Dashboard do aplicativo no Node-RED")
