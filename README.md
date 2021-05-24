@@ -11,7 +11,7 @@ As tecnologias que utilizamos foram:
 
 A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e portanto todos os componentes do circuito atuam em função dele.
 
-Esses foram os materiais que utilizamos no nosso projeto:
+Esses foram os materiais que utilizamos no projeto:
 - Arduino UNO R3
 - Módulo WiFi ESP8266 NodeMCU ESP-12
 - Sensor de Distância Ultrassônico HC-SR04
@@ -21,4 +21,5 @@ Esses foram os materiais que utilizamos no nosso projeto:
 - Lâmpada LED Bulbo Luz Branca 4,8W
 - **3** Cabos Flexíveis de 2,5 mm² 750v
 - Plafon Turquia com Soquete
-- Cabos Jumper Macho-Fêmea 
+- **12** Cabos Jumper Macho-Fêmea
+- **2** Cabos Jumper Macho-Macho
