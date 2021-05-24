@@ -12,10 +12,18 @@ O nosso projeto é uma adaptação de uma automação residencial feita pelo **F
 **Documentação da versão do protocolo MQTT:**
 - [MQTT versão 3.1.1](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.pdf)
 
+**Documentação das bibliotecas utilizadas código-fonte:**
+- [ESP8266WiFi](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
+- [PubSubClient](https://pubsubclient.knolleary.net/)
+- [ArduinoJson](https://arduinojson.org/v6/doc)
+- [DNSServer](https://github.com/zhouhan0126/DNSServer---esp32)
+- [WebServer](https://github.com/zhouhan0126/WebServer-esp32)
+- [WiFiManager](https://github.com/tzapu/WiFiManager)
+
 **Documentação das bibliotecas utilizadas Node-RED:**
 - [node-red-contrib-ibmconnections 1.7.0](https://flows.nodered.org/node/node-red-contrib-ibmconnections)
 - [node-red-contrib-scx-ibmiotapp 0.0.49](https://flows.nodered.org/node/node-red-contrib-scx-ibmiotapp)
-- [node-red-contrib-ibm-db2](node-red-contrib-ibm-db2)
+- [node-red-contrib-ibm-db2](https://flows.nodered.org/node/node-red-contrib-ibm-db2)
 
 A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e portanto todos os componentes do circuito atuam em função dele.
 
