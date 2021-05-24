@@ -26,5 +26,5 @@ Esses foram os materiais que utilizamos no projeto:
 
 Para fazer o acionamento da lâmpada pela internet, nós criamos um aplicativo no Node-RED com a seguinte interface:
 
-![Dashboard do aplicativo no Node-RED](https://raw.githubusercontent.com/abstrarthur/automacao_residencial/main/Dashboard%20Node-RED.png "Dashboard do aplicativo no Node-RED")
+> ![Dashboard do aplicativo no Node-RED](https://raw.githubusercontent.com/abstrarthur/automacao_residencial/main/Dashboard%20Node-RED.png "Dashboard do aplicativo no Node-RED")
 *Dashboard do aplicativo no Node-RED*
