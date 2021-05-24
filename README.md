@@ -19,4 +19,6 @@ Esses foram os materiais que utilizamos no nosso projeto:
 - Plugue Macho 2 Polos + Terra 10A
 - Protoboard com 400 pontos
 - Lâmpada LED Bulbo Luz Branca 4,8W
-- **3x** Cabos Flexíveis de 2,5 mm² 750v
+- **3** Cabos Flexíveis de 2,5 mm² 750v
+- Plafon Turquia com Soquete
+- Cabos Jumper Macho-Fêmea 
