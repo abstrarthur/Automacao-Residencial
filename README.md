@@ -25,6 +25,9 @@ O nosso projeto é uma adaptação de uma automação residencial feita pelo **F
 - [node-red-contrib-scx-ibmiotapp 0.0.49](https://flows.nodered.org/node/node-red-contrib-scx-ibmiotapp)
 - [node-red-contrib-ibm-db2](https://flows.nodered.org/node/node-red-contrib-ibm-db2)
 
+**Software utilizado para a programação:**
+- [Arduino IDE](https://www.arduino.cc/en/software)
+
 A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e portanto todos os componentes do circuito atuam em função dele.
 
 Lista de materiais:
