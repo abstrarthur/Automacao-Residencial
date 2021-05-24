@@ -11,7 +11,7 @@ As tecnologias que utilizamos foram:
 
 A nossa automação foi construída a partir da plataforma NodeMCU, utilizando o módulo [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest). Toda a programação da aplicação foi feita nesse módulo e portanto todos os componentes do circuito atuam em função dele.
 
-Esses foram os materiais que utilizamos no projeto:
+Estes foram os materiais que utilizamos no projeto:
 - Módulo WiFi ESP8266 NodeMCU ESP-12
 - Sensor de Distância Ultrassônico HC-SR04
 - Módulo Relé 5V com 1 canal
