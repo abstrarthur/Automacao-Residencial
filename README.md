@@ -43,7 +43,7 @@ Lista de materiais:
 - **12** Cabos Jumper Macho-Fêmea
 - **2** Cabos Jumper Macho-Macho
 
-Tanto o [diagrama do circuito](https://raw.githubusercontent.com/abstrarthur/Automacao-Residencial/main/Diagrama%20do%20circuito.png) quanto o [fluxograma do código](https://raw.githubusercontent.com/abstrarthur/Automacao-Residencial/main/Fluxograma%20do%20c%C3%B3digo.jpeg) podem ser consultados aqui no repositório.
+Tanto o [diagrama do circuito](https://raw.githubusercontent.com/abstrarthur/Automacao-Residencial/main/Diagrama%20do%20circuito.png) quanto o [fluxograma do código](https://raw.githubusercontent.com/abstrarthur/Automacao-Residencial/main/Fluxograma%20do%20c%C3%B3digo.jpeg) podem ser consultados aqui no repositório. E o [*sketch*](https://github.com/abstrarthur/Automacao-Residencial/blob/main/Acionamento%20da%20l%C3%A2mpada.ino) da aplicação está devidamente comentado nas partes mais importantes e de uma maneira bem didática para facilitar o entedimento do código.
 
 Para fazer o acionamento da lâmpada pela internet, nós criamos um aplicativo no Node-RED com a seguinte interface:
 
