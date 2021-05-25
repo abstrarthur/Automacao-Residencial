@@ -2,7 +2,7 @@
 
 Olá! Este é o projeto que eu e a [Gabrielle Baptista](https://github.com/theworldofbibi) fizemos para a disciplina de Objetos Inteligentes Conectados no curso de Sistemas de Informação da Universidade Presbiteriana Mackenzie.
 
-O nosso projeto é uma adaptação de uma automação residencial feita pelo **Flávio Guimarães**, do canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias/featured) e do **Fernando Koyanagi**, do canal [Fernando K](https://www.youtube.com/c/FernandoKoyanagi/featured), que consiste no acionamento de uma lâmpada através da internet, utilizando a versão **3.1.1** do [protocolo MQTT](https://developer.ibm.com/br/technologies/iot/articles/iot-mqtt-why-good-for-iot/) com um ESP8266, e com um sensor de distância ultrassônico.
+O nosso projeto é uma adaptação de uma automação residencial feita pelo **Flávio Guimarães**, do canal [Brincando com Ideias](https://www.youtube.com/c/BrincandocomIdeias/featured) e do **Fernando Koyanagi**, do canal [Fernando K](https://www.youtube.com/c/FernandoKoyanagi/featured), que consiste no acionamento de uma lâmpada através da internet, utilizando a versão **3.1.1** do [protocolo MQTT](https://developer.ibm.com/br/technologies/iot/articles/iot-mqtt-why-good-for-iot/) com um [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest/), e com um sensor de distância ultrassônico.
 
 **Documentação das tecnologias utilizadas:**
 - [IBM Watson](https://cloud.ibm.com/developer/watson/documentation)
